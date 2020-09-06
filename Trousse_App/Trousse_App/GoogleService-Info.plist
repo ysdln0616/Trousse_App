@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>180108532162-684fkguo3tti2nm267l0hgua7g7j1sl4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.180108532162-684fkguo3tti2nm267l0hgua7g7j1sl4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHsb6oNhALAE9ZTK8XpCxtMSjDewNeJqI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>180108532162</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mobile-luna.Trousse-App</string>
+	<key>PROJECT_ID</key>
+	<string>oskweb-trousse</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oskweb-trousse.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:180108532162:ios:4c8e0785762c69b3659e5b</string>
+	<key>DATABASE_URL</key>
+	<string>https://oskweb-trousse.firebaseio.com</string>
+</dict>
+</plist>
